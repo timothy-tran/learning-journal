@@ -1,5 +1,3 @@
-#LJ Code 201 - Day 1
+#LJ Code 201 - Day 8
 
-Today is the first day of the Code 201. I was excited to learn new things through this class. The instructore, Nick, is very nice but he talks really fast. I am not used to it and missed a few points. But I caught up with the class afterward. After the orientation and instroduction, Nick went over the set up of the laptop and the command line commands. We also learned about version control such as Git and Github. We reviewed the basic of HTML and JavaScript.
-
-I have a flu for the first day of the class so I was a little slow. But I think every is going to be Ok and I hope this class is going to be successful because I'm going to work hard for it.
+Today I learned about form in HTML and how it is used. The form is inside a form element in the body of the HTML. Form is used to collect information from users. Information in a form is a name/value pair. I also learned about event and how JavaScript handle the event. An event is an action such as user click on a button or a webpage is finished loading. We can use JavaScript to collect information and process it.
