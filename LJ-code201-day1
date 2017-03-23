@@ -1,5 +1,3 @@
-#LJ Code 201 - Day 1
+#LJ Code 201 - Day 13
 
-Today is the first day of the Code 201. I was excited to learn new things through this class. The instructore, Nick, is very nice but he talks really fast. I am not used to it and missed a few points. But I caught up with the class afterward. After the orientation and instroduction, Nick went over the set up of the laptop and the command line commands. We also learned about version control such as Git and Github. We reviewed the basic of HTML and JavaScript.
-
-I have a flu for the first day of the class so I was a little slow. But I think every is going to be Ok and I hope this class is going to be successful because I'm going to work hard for it.
+The subject we learned is the localStorage. With localStorage, we can move from webpage to webpage and still able to keep the data. This called Data Persistence. localStorage is operated as key-value pair. We get to the value by the key name. It stored data as a string, therefore we use JSON.stringify() to put it up to localStorage and JSON.parse() to get back the value. This will keep the integrity of the number type data. We use localStorage.clear() to delete all data in localStorage.
