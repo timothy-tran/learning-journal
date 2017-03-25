@@ -1,3 +1,4 @@
-#LJ Code 201 - Day 13
 
-The subject we learned is the localStorage. With localStorage, we can move from webpage to webpage and still able to keep the data. This called Data Persistence. localStorage is operated as key-value pair. We get to the value by the key name. It stored data as a string, therefore we use JSON.stringify() to put it up to localStorage and JSON.parse() to get back the value. This will keep the integrity of the number type data. We use localStorage.clear() to delete all data in localStorage.
+#LJ-code201-day15
+
+This is the last day of instruction for code 201. We have gone a long way. Today we learn some of the things we'll learn in code 301. And we practice workflow and resolve git conflict. We also start working on our project. This is the opportunity for us to put in practice what we have learn. I am looking forward to it.
